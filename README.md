@@ -33,7 +33,7 @@ In dynamic scenes, both localization and mapping in visual SLAM face significant
 ![overview](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/overview.png)
 
 + Comparison with object map construction of SG-SLAM
-![SG-SLAM](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/Compared_with_SGSLAM.png)  
+![SG-SLAM](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/Compared_with_SGSLAM.png)  
   <!-- + (S. Cheng, C. Sun, S. Zhang and D. Zhang, "SG-SLAM: A Real-Time RGB-D Visual SLAM Toward Dynamic Scenes With Semantic and Geometric Information," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023, Art no. 7501012, doi: 10.1109/TIM.2022.3228006.) -->
 
 ## 4. Performance
