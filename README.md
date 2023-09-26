@@ -30,7 +30,7 @@ In dynamic scenes, both localization and mapping in visual SLAM face significant
 + To the best of our knowledge, in dynamic scenes, this paper is the first work to construct plane maps, and also the first to accurately parameterize objects and build accurate and complete lightweight object maps.  
 
 + Overview
-![overview](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/overview.png)
+![overview](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/overview.png)
 
 + Comparison with object map construction of SG-SLAM
 ![SG-SLAM](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/Compared_with_SGSLAM.png)  
@@ -39,19 +39,19 @@ In dynamic scenes, both localization and mapping in visual SLAM face significant
 ## 4. Performance
 
 ### Point Cloud Map and Octree Map
-![PCOMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/Point%20cloud%20map%20and%20Octree%20map.png)
+![PCOMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/Point%20cloud%20map%20and%20Octree%20map.png)
 
 ### Plane Map
-![PlaneMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/plane%20map.png)
+![PlaneMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/plane%20map.png)
 
 ### Object Map
-![ObjectMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/object%20map.png)  
+![ObjectMap](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/object%20map.png)  
 
 ### Robustness Test in Real Environment
-![RealSense](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/real%20sense.png)
+![RealSense](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/real%20sense.png)
 
 ### Dynamic Object Tracking Experiment
-![DyObjTrack](https://github.com/Hbelief1998/DyMLM-SLAM/blob/main/images/DyObjTrack.png)
+![DyObjTrack](https://github.com/Hbelief1998/DyMLM-SLAM/blob/master/images/DyObjTrack.png)
 
 
 ## 3. Future
